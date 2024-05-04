@@ -1,0 +1,43 @@
+{
+	"theme": "default",
+	"username": "dIvIso",
+	"name": "Raihan Firdaus",
+	"bio": "I'm very interested about mobile development and machine learning.",
+	"description": "Flutter, React native, and ML",
+	"avatar_url": "/killua.jpeg",
+	"socials": [
+		{
+			"name": "linkedin",
+			"href": "-",
+			"icon": "li"
+		},
+		{
+			"name": "Instagram",
+			"href": "https://www.instagram.com/raihan.nnn/",
+			"icon": "ig"
+		},
+		{
+			"name": "Github",
+			"href": "https://github.com/RH203",
+			"icon": "gh"
+		}
+	],
+	"links": [
+		{
+      "id": 1,
+      "href": "https://github.com/RH203",
+      "title": "Check me on github"
+    },
+		{
+      "id": 2,
+      "href": "https://www.buymeacoffee.com/syofyanzuhad",
+      "title": "Buy me a coffee"
+    },
+		{
+      "id": 3,
+      "href": "https://trakteer.id/syofyanzuhad/tip",
+      "title": "Trakteer me"
+    }
+	]
+
+}
